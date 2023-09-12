@@ -1,13 +1,13 @@
-function devide(numerator, denominator) {
+function divide(numerator, denominator) {
    try {
     if (denominator === 0) {
         throw new Error("Division by zero is not allowed")
     }
     if (typeof numerator !== 'number' || typeof denominator !== 'number') {
-        throw new Error("Please enter number")
+        throw new Error("numerator & denominator should be numbers")
     }
     const result = numerator / denominator
-    return console.log(result)
+    return result
   
    } catch (error) {
     console.error(error.message)
@@ -18,8 +18,8 @@ function devide(numerator, denominator) {
 }
 
 
-devide(10,2)
+console.log(divide(10,2))
 console.log("************")
-devide(10,0)
+divide(10,0)
 console.log("************")
-devide(true,2)
+divide(true,2)
