@@ -1,0 +1,15 @@
+{
+  "name": "aqa-advanced-2",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaniaBystrova/aqa-advanced-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaniaBystrova/aqa-advanced-2/issues"
+  },
+  "homepage": "https://github.com/TaniaBystrova/aqa-advanced-2#readme"
+}
