@@ -11,5 +11,9 @@
   "bugs": {
     "url": "https://github.com/TaniaBystrova/aqa-advanced-2/issues"
   },
-  "homepage": "https://github.com/TaniaBystrova/aqa-advanced-2#readme"
+  "homepage": "https://github.com/TaniaBystrova/aqa-advanced-2#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "prettier": "3.0.3"
+  }
 }
