@@ -11,8 +11,5 @@
   "bugs": {
     "url": "https://github.com/TaniaBystrova/aqa-advanced-2/issues"
   },
-  "homepage": "https://github.com/TaniaBystrova/aqa-advanced-2#readme",
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
+  "homepage": "https://github.com/TaniaBystrova/aqa-advanced-2#readme"
 }
